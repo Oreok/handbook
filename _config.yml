@@ -2,9 +2,9 @@ title: digital-work lab
 description: The digital-work lab handbook
 theme: just-the-docs
 
-url: https://digital-work-lab.github.io/handbook
+url: https://oreok.github.io/handbook/
 
-repository: digital-work-lab/handbook
+repository: oreok/handbook
 
 gh_edit_link: true
 gh_edit_link_text: 'Edit this page on GitHub'
