@@ -2,8 +2,13 @@ title: digital-work lab
 description: The digital-work lab handbook
 theme: just-the-docs
 
-url: https://oreok.github.io/handbook/
+# Remote Setting
+baseurl: "/handbook"
+# url: ""
 
+# Theme
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
 repository: oreok/handbook
 
 gh_edit_link: true
