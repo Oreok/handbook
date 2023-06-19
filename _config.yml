@@ -4,11 +4,7 @@ theme: just-the-docs
 
 # Remote Setting
 baseurl: "/handbook"
-# url: ""
 
-# Theme
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
 repository: oreok/handbook
 
 gh_edit_link: true
